@@ -1,7 +1,7 @@
 # My Stat 👋
 
 <div align='center'>
-  <a href="https://opgc.me/#/users/dumdummy" target="_blank"><img src="https://api.opgc.me/githubs/users/dumdummy/tag/?theme=basic" /></a>
+  <a href="https://opgc.me/#/users/dumdummy" target="_blank"><img src="https://api.opgc.me/githubs/users/dumdummy/tag/?theme=basic" /></a><br><br>
   
 ![JK's github stats](https://github-readme-stats.vercel.app/api?username=dumdummy&count_private=true&show_icons=true&theme=algolia)
 
