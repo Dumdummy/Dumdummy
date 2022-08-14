@@ -1,4 +1,4 @@
-### My Stat 👋
+# My Stat 👋
 ---
 
 <div align='center'>
